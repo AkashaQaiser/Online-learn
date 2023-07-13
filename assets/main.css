@@ -1399,6 +1399,7 @@ text{
     }
   
     .assisted-students {
+        display: none;
         width: 191px;
         height: 44px;
         position: absolute;
@@ -1698,6 +1699,7 @@ text{
     }
   
     .assisted-students {
+        display: none;
         width: 191px;
         height: 44px;
         position: absolute;
@@ -2100,6 +2102,7 @@ text{
     }
 
     .assisted-students {
+        display: none;
         width: 191px;
         height: 44px;
         position: absolute;
